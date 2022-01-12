@@ -3,7 +3,7 @@
 
 ### A passionate junior frontend developer from Poland!
 
-Learning new languages and frameworks is like incredible life adventure that I hope will never end 😁 I’m learning ==React== from 2021 but I also want to reach for more, so ==TypeScript== is my new gool. You can check out my [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alicjalatala/)
+Learning new languages and frameworks is like incredible life adventure that I hope will never end 😁 I’m learning `React` from 2021 but I also want to reach for more, so `TypeScript` is my new gool. You can check out my [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alicjalatala/)
 
 
 ### Technologies:
