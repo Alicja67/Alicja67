@@ -1,10 +1,12 @@
 ## Hi there 👋   I'm Alicja!  👧 
 
+
 ### A passionate junior frontend developer from Poland!
 
 Learning new languages and frameworks is like incredible life adventure that I hope will never end 😁 I’m learning `React` from 2020 but I also want to reach for more, so `TypeScript` is my new gool. You can check out my [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alicjalatala/)
 
-## Technologies:
+
+### Technologies:
 
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)
@@ -15,5 +17,4 @@ Learning new languages and frameworks is like incredible life adventure that I h
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb) 
   
-
 
